@@ -4,5 +4,6 @@ module Bitreserve
     USER = '/me'
     USER_PHONES = '/me/phones'
     CARD = '/me/cards'
+    AUTH = '/oauth2/tokens'
   end
 end
